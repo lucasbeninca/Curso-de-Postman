@@ -1,5 +1,6 @@
 # Estudando Postman
-Materiais para o curso de Postman em 1 hora
+Materiais para o curso de Postman em 1 hora da Udemy: https://www.udemy.com/course/aprenda-postman-em-1-hora-iniciante
+- OBSERVAÇÃO: Eu não ministro o curso sou apenas uma aluno.
 
 
 # Simple Books API #
